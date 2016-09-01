@@ -1,13 +1,26 @@
 {
-  "name": "leader-board",
+  "name": "leader-board-fcc",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node server"
   },
-  "author": "Shu Zhou",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rancho06/leader-board-fcc.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "mobx",
+    "starter-kit",
+    "leader",
+    "board",
+    "freecodecamp"
+  ],
+  "author": "Shu Zhou <ranchousc@gmail.com> (http://github.com/Rancho06)",
+  "license": "MIT",
   "dependencies": {
     "jquery": "^3.1.0",
     "mobx": "^2.4.4",
