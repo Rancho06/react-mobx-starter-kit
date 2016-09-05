@@ -1,5 +1,5 @@
 {
-  "name": "leader-board-fcc",
+  "name": "react-mobx-starter-kit",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -8,16 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rancho06/leader-board-fcc.git"
+    "url": "https://github.com/Rancho06/react-mobx-starter-kit"
   },
   "keywords": [
     "react",
     "reactjs",
     "mobx",
     "starter-kit",
-    "leader",
-    "board",
-    "freecodecamp"
+    "nodejs"
   ],
   "author": "Shu Zhou <ranchousc@gmail.com> (http://github.com/Rancho06)",
   "license": "MIT",
